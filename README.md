@@ -45,7 +45,7 @@ This repository contains the implementation of a **Vanilla Transformer Decoder B
 
 4. **Run the training script**:
    ```bash
-   python train.py
+    Run All cells in Jupyter Notebook
    ```
 
 5. **Generate text**:
